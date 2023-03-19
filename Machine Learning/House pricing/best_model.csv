@@ -1,0 +1,4 @@
+,model,best_score,best_params
+0,linear_regression,0.7001037464760449,{}
+1,lasso,0.7000668602761749,"{'alpha': 2, 'selection': 'random'}"
+2,decision_tree,0.9252811435060924,"{'criterion': 'friedman_mse', 'splitter': 'best'}"

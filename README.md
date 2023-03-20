@@ -7,3 +7,4 @@ Data Science Projects:
 
 Machine Learning Projects:
 1. House pricing > data modelling for predicting house prices
+2. Face recognition > data modelling to predict face of cast from Harry Potter

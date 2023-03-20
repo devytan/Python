@@ -1,0 +1,4 @@
+,model,best_score,best_params
+0,logistic_regression,0.7473684210526315,"{'logisticregression__multi_class': 'auto', 'logisticregression__solver': 'liblinear'}"
+2,svc,0.7263157894736842,"{'svc__C': 10, 'svc__gamma': 'auto', 'svc__kernel': 'rbf'}"
+1,random_forest,0.7105263157894737,"{'randomforestclassifier__criterion': 'entropy', 'randomforestclassifier__n_estimators': 100}"
